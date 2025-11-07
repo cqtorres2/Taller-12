@@ -30,9 +30,6 @@ class Novela implements numero1, numero2 {
     @Override
     public void igual() {
         System.out.println(34);
-    }
-
- 
-    
+    }    
 }
-*/
+ */
